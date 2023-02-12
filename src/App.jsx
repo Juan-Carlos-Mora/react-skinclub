@@ -1,20 +1,20 @@
 
-import Openbox from "./openbox";
-import Navegador from "./Navbar";
-import './index.css';
+import Openbox from "./components/openbox";
+import Navegador from "./components/Navbar";
 
 
 
-const App = () => {
-  return(
-<div className="container-fluid" >
-    <div className="col-12">
-        <Navegador/> 
+
+function App() {
+  return (
+    <div className="container-fluid">
+      <div className="col-12">
+        <Navegador />
         <div>
-        <Openbox/>
+          <Openbox />
         </div>
+      </div>
     </div>
-  </div>
-  )
-};
+  );
+}
 export default App;

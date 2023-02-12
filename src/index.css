@@ -36,9 +36,26 @@ border-radius: 3%;
   height: 10rem;
   margin: 0;
   padding:0 ;}
+
 .imagen{
   width: 12rem;
   height: 12rem;
   margin: 0;
   padding: 0;
+}
+.logo{
+  width: 30px;
+  height: 30px;
+ margin: 0;
+  padding: 0;
+ 
+  
+}
+.logo2{
+  width: 135px;
+  height: 40px;
+  margin-right: 10px;
+  padding: 0;
+  background-color: #551a8d;
+  display:flex;
 }

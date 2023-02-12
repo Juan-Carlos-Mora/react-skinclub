@@ -1,6 +1,4 @@
-import './index.css'
-
-const Openbox = () => {
+ const Openbox = () => {
     return(
     <div>
       <div className='container text-center m-5 '>
