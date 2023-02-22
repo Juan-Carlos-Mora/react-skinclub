@@ -1,0 +1,303 @@
+[{
+    "index":1,"nombre":"AK-47 | Serpiente de fuego",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Este recuerdo de Ruins lleva pintado un dibujo de una serpiente de fuego. Si quieres sobrevivir en las calles, aprende a escupir fuego.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszOeC9H_9mkhIWFg8j1OO-GqWlD6dN-teTE8YXghWu4qgE7NnfzdtCTIQM-ZFnWqFLqyb270ZHt6MyanHMxvHYitHzVzBHk1RtOarc8m7XAHlYw1xU4/360fx360f",
+    "precio": 1660.56,
+    "stock":2, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":2,"nombre":"AK-47 | Arabesco dorado",
+    "description":"Potente y confiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Puede resultar mortal a ráfagas cortas y controladas. Se ha pintado a mano un diseño complejo sobre la culata y el guardamanos. El metal ha sido pintado dorado con detalles de filigrana.¿Qué otro truco se sacará Booth de la manga?",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09u5mIS0luX1Mb7Ch35U1810i__YyoD0mlOx5RU9amGnJI6dc1NoaVzS8li6k-rogsDqu8zInCM1uHUj53renROx1UtSLrs4pz9Izpw/360fx360f",
+    "precio": 1915.35,
+    "stock":5, 
+    "categoria":"Fusil"
+    
+  },
+  
+  {
+    "index":3,"nombre":"AK-47 | Asiimov",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha personalizado con un diseño de ciencia ficción. Cualquiera puede predecir el futuro. Un visionario le da forma",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLP7LWnn9u5MRjjeyPo9qgjlfnqUtvMGHzIICWew45aV-B_1bqw7u5gse16JTKwXBnvigg5WGdwUL3VYtbUA/360fx360f",
+    "precio": 24.55,
+    "stock":100, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":4,"nombre":"AK-47 | Emperatriz",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha personalizado usando la carta del tarot de la Emperatriz como inspiración. La riqueza llega de muchas formas.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09m7hJKOhOTLP7LWnn9u5MRjjeyP89SkjAS2-0Q4MDjwLIeTcQNtaVGG_VXskrq9g8S6uMzPnSNl7ygjtmGdwUJqmcyS6w/360fx360f",
+    "precio": 100.25,
+    "stock":25, 
+    "categoria":"Fusil"
+    
+  },
+
+  {
+    "index":5,"nombre":"AK-47 | Órbita MK01",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha pintado a mano con un diseño rojo y negro. Recuperado de COLONY01.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_ummJW4NFOhujT8om7igLs8xc9ZG_yIdSTJwE4NwnT_ge5xuu6h5a8tZzNnSFnvnQn5nzbzAv330_AxVvPyA/360fx360f",
+    "precio": 17.25,
+    "stock":35, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":6,"nombre":"AK-47 | Terra ignota",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha aplicado una pintura personalizada con varios patrones tribales. Compartimos el mismo cayuco.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092sgIWIqPv9NLPFqWdQ-sJ0xLqXrYis2Fa1_BE_Y2iidYOTdg43ZlHSq1m3x-y705O_uJ7Lynowv3M8pSGK7lPtmXQ/360fx360f",
+    "precio": 1.25,
+    "stock":150, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":7,"nombre":"AK-47 | Pizarra",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se le ha aplicado una pintura personalizada que solo se puede describir como «negro sobre negro sobre negro pizarra». «Llamad a un médico, porque lo van a necesitar».",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRd4cJ5ntbN9J7yjRqw-0o4ZWvwcIbEdQQ7Ml7Tr1nvwufvgMC6us-bmHZi6HEgsCvYlkC_n1gSOasHEuYf/360fx360f",
+    "precio": 3.52,
+    "stock":60, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":8,"nombre":"AK-47 | Red de seguridad",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha aplicado un patrón de verja naranja sobre un fondo blanco. Tu equipamiento, ahora con más visibilidad.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszFdC5K08-3koWfjvjmMrXWk1RZ7cRnk9bN9J7yjRrk_BFvYmH1IYKddwM5Yl3S_QC2l725hZfu6c7LyCZmviQlsSrUzB3mn1gSOV_Po89W/360fx360f",
+    "precio":4.99,
+    "stock":100, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":9,"nombre":"AK-47 | Legión de Anubis",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha aplicado una pintura personalizada con los dioses egipcios Ra y Anubis, representando el equilibrio entre la vida y la muerte. Puede inclinar la balanza a tu favor.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj4OrzZglRd6dd2j6eUp43wiwfgqkM4Z270LIOUcFA6aF7SqFa5yO7tjJLu7sjIzXFnvSkn-z-DyMloWsFc/360fx360f",
+    "precio": 19.99,
+    "stock":45, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":10,"nombre":"AK-47 | Hielo carbonizado",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha personalizado con un brillante gradiente de color verde y azul. Frío al tacto.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITdn2xZ_Pp9i_vG8MKsigDi_Es9ZGmgJ4eQJwNqZ1iB-FG9xe3p15HttZianXYwv3RxtnfUgVXp1lJgFZ41/360fx360f",
+    "precio": 46.99,
+    "stock":15, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index":11,"nombre":"AK-47 | Bujía inyectora",
+    "description":"Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. El cuerpo del rifle se ha pintado de amarillo brillante y el cargador se ha personalizado para que parezca una maquinaria. Vive de medio cargador en medio cargador.",
+    "imagen": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-jhIWZlP_1IbzUklRd4cJ5ntbN9J7yjRrsqkM4ZmqmLILHdQY6aFvW_AC9lO2718S-ucnLwCRnvSN24nmJzEDln1gSOcGSLCO2/360fx360f",
+    "precio": 309.99,
+    "stock":15, 
+    "categoria":"Fusil"
+    
+  },
+  {
+    "index": 1,"nombre":"AWP | Desteñido",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado aerografiando trazados transparentes desteñidos sobre una capa base de cromo. Esto no es solo un arma, es un tema de conversación. —Imogen (traficante de armas en prácticas)",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZh7PLfYQJE7dizq4yCkP_gDLfQhGxUppF0076Z8N2miwfn8kU_YjvycYWXJw83YgmGqFW4w7281MW5ucnOwXF9-n51Xlh34oU/360fx360f",
+    "precio": 870,
+    "stock":4, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 2,"nombre":"AWP | Doodle Lore",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». It has been custom painted with a snake on either side. One snake is red and the other is gold. There's two sides to every sto",
+    "image": "image/awp/doodlelore.png",
+    "precio": 1800,
+    "stock":2, 
+    "categoria":"Sniper"
+    
+  },
+  
+  {
+    "index": 3,"nombre":"AWP | Hidra del desierto",
+    "description":" Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha personalizado esta AWP con serpientes de oro enroscadas lo largo del arma. La mira, el cañón y la culata se han pintado de blanco. Si le cortas la cabeza, le crecerán dos más. ¿Es un riesgo que estás dispuesto a correr? —Valeria Jenner (revolucionaria)",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1730.99,
+    "stock":2, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 4,"nombre":"AWP | Relámpago",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado un relámpago usando un efecto anodizante sobre una capa base metálica. En ocasiones no es necesario atacar dos veces el mismo lugar",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 821.25,
+    "stock":25, 
+    "categoria":"Sniper"
+    
+  },
+
+  {
+    "index": 5,"nombre":"AWP | Hiperbestia",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha personalizado con una criatura bestial en colores psicodélicos. ¿De verdad quieres impresionarme, Booth? Hazlo sensible a la luz negra. —Rona Sabri (joven promesa)",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 55.25,
+    "stock":35, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 6,"nombre":"AWP | Alcornoque",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado con un motivo de alcornoque.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1.25,
+    "stock":150, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 7,"nombre":"AWP  | Atheris",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado a mano el dibujo de una alucinante víbora turquesa sobre un fondo negro. Tan mortal como preciosa.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 14.52,
+    "stock":60, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 8,"nombre":"AWP | Exoesqueleto",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». El metal de este AWP se ha prensado meticulosamente con un patrón de calaveras entrelazadas. Inclinación total.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 8.99,
+    "stock":200, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 9,"nombre":"AWP | Mortis",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha personalizado usando la carta del tarot de la Muerte como inspiración. Cada final es un nuevo comienzo.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 7.45,
+    "stock":500, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 10,"nombre":"AWP | Gatetes y perretes",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha aplicado un patrón de felinos, canes y una criatura con una bufanda roja. Las recompensas por víctimas se pagan en postes rascadores y pelotas de tenis.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 5.99,
+    "stock":150, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 11,"nombre":"AWP | POP AWP",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se le ha aplicado un patrón blanco, rojo y azul inspirado en tecnología retro. Las guerras se ganan con información.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 2.85,
+    "stock":150, 
+    "categoria":"Sniper"
+    
+  },
+  {
+    "index": 1,"nombre":"Cuchillo Mariposa ★ | Diente de tigre",
+    "description":"Esto es una navaja de diseño personalizado, comúnmente conocida como cuchillo mariposa. La característica que define a esta arma es la apertura de abanico de la hoja que pivota libremente, que permite abrirla rápidamente o a escondidas. Debido a esto, las mariposas son ilegales en algunos países. Se ha anodizado en naranja y a continuación grabado a mano mediante un patrón de rayas de tigre. Excepcional como el tigre... Mortal como el tigre...",
+    "image": "public/image/ak47/fireserpent.png",
+    "precio": 1870,
+    "stock":4, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 2,"nombre":"Bayoneta M9 ★ | Desteñido",
+    "description":"Esta es la bayoneta M-9. Pensada originalmente para ir acoplada a un rifle, también resulta muy adecuada para el combate en espacios cerrados. Se ha pintado aerografiando trazados transparentes desteñidos sobre una capa base de cromo. Esto no es solo un arma, es un tema de conversación. —Imogen (traficante de armas en prácticas)",
+    "image": "public/image/ak47/arabesco.png",
+    "precio": 1800,
+    "stock":2, 
+    "categoria":"Knife"
+    
+  },
+  
+  {
+    "index": 3,"nombre":"Karambit ★ | Tela escarlata",
+    "description":"Con su hoja curvada emulando la garra de un tigre, el karambit fue desarrollado como parte de la disciplina marcial surasiática del silat. El cuchillo se usa normalmente con un agarre opuesto al de la hoja introduciendo el dedo índice en el aro. Se ha pintado usando un patrón de telaraña hidrográfico sobre una capa roja y está barnizada con una capa superior satinada. Ten cuidado por dónde andas, uno nunca sabe hasta dónde se extiende la telaraña",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1781.99,
+    "stock":2, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 4,"nombre":"Bayoneta M9 ★ | Tela escarlata",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado un relámpago usando un efecto anodizante sobre una capa base metálica. En ocasiones no es necesario atacar dos veces el mismo lugar",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-DjsjjNrnCqWdY781lteXA54vwxgG2rhFla2-hcYTGclBqYAnWrgXrx728hsC_up2fm3MyvnIl4nffnEGpwUYbLGuk_6Y/360fx360f",
+    "precio": 1621.25,
+    "stock":25, 
+    "categoria":"Knife"
+    
+  },
+
+  {
+    "index": 5,"nombre":"Karambit ★ | Diente de tigre",
+    "description":"Con su hoja curvada emulando la garra de un tigre, el karambit fue desarrollado como parte de la disciplina marcial surasiática del silat. El cuchillo se usa normalmente con un agarre opuesto al de la hoja introduciendo el dedo índice en el aro. Se ha anodizado en naranja y a continuación grabado a mano mediante un patrón de rayas de tigre. Excepcional como el tigre... Mortal como el tigre...",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1455.25,
+    "stock":35, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 6,"nombre":"Cuchillo talón ★ | Desteñido",
+    "description":"Este karambit con mango de marfil posee remaches de latón y dientes de sierra, por lo que corta al entrar y desgarra al salir. Se ha pintado aerografiando trazados transparentes desteñidos sobre una capa base de cromo. Esto no es solo un arma, es un tema de conversación. —Imogen (traficante de armas en prácticas)",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1385.25,
+    "stock":3, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 7,"nombre":"Navaja ★ | Manchado",
+    "description":"Esta navaja con mango de mármol esmaltado esconde una pequeña pero increíblemente afilada cuchilla. Se le ha aplicado una capa de óxido a propósito derramando gotas de limón y mostaza sobre su superficie. Si piensas que es confuso ahora, espera a verlo bajo una luz negra",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 89.52,
+    "stock":9, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 8,"nombre":"Dagas Sombrías ★ | Acero de damasco",
+    "description":"Diseñada para proporcionar un brutalidad eficiente, usar una daga es tan simple como lanzar un puñetazo o dos. Se ha forjado a partir de una moldura a base de dos tipos de acero de carbono. Finalmente, un arma lo suficientemente fuerte para adecuarse a tus propósitos",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 97.99,
+    "stock":200, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 9,"nombre":"Dagas Sombrías ★ | Aguas brillantes",
+    "description":"Diseñada para proporcionar un brutalidad eficiente, usar una daga es tan simple como lanzar un puñetazo o dos. Se ha pintado usando un camuflaje azul hidrográfico.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 97.45,
+    "stock":500, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 10,"nombre":"Cuchillo Destripador ★ | Ultravioleta",
+    "description":"La característica más notable de un cuchillo destripador es el gancho destripador que tiene al final de la hoja. Originalmente popularizado como una ayuda para los vendajes, el cuchillo destripador es también efectivo cortando materiales fibrosos como cuerdas, cinchas o cinturones de seguridad con bastante facilidad. Se han pintado algunas partes con espray de colores sólidos en tonos negro y púrpura. Un diseño elegante unido a un propósito brutal.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 95.99,
+    "stock":150, 
+    "categoria":"Knife"
+    
+  },
+  {
+    "index": 11,"nombre":"Cuchillo Bowie ★ | Malla de safari",
+    "description":"Este afilado cuchillo Bowie de espiga completa está diseñado para utilizarse en situaciones de supervivencia extremas. Se ha pintado con espray usando malla metálica y recortes de cartón como plantillas. Un depredador es un depredador, sin importar el entorno.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 92.85,
+    "stock":150, 
+    "categoria":"Knife"
+    
+  }]

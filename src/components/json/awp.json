@@ -1,0 +1,101 @@
+[{
+    "index": 1,"nombre":"AWP | Desteñido",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado aerografiando trazados transparentes desteñidos sobre una capa base de cromo. Esto no es solo un arma, es un tema de conversación. —Imogen (traficante de armas en prácticas)",
+    "image": "public/image/ak47/fireserpent.png",
+    "precio": 870,
+    "stock":4, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 2,"nombre":"AWP | Doodle Lore",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». It has been custom painted with a snake on either side. One snake is red and the other is gold. There's two sides to every sto",
+    "image": "public/image/ak47/arabesco.png",
+    "precio": 1800,
+    "stock":2, 
+    "categoria":"Case AWP"
+    
+  }
+  
+  {
+    "index": 3,"nombre":"AWP | Hidra del desierto",
+    "description":" Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha personalizado esta AWP con serpientes de oro enroscadas lo largo del arma. La mira, el cañón y la culata se han pintado de blanco. Si le cortas la cabeza, le crecerán dos más. ¿Es un riesgo que estás dispuesto a correr? —Valeria Jenner (revolucionaria)",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1730.99,
+    "stock":2, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 4,"nombre":"AWP | Relámpago",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado un relámpago usando un efecto anodizante sobre una capa base metálica. En ocasiones no es necesario atacar dos veces el mismo lugar",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 821.25,
+    "stock":25, 
+    "categoria":"Case AWP"
+    
+  }
+
+  {
+    "index": 4,"nombre":"AWP | Hiperbestia",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha personalizado con una criatura bestial en colores psicodélicos. ¿De verdad quieres impresionarme, Booth? Hazlo sensible a la luz negra. —Rona Sabri (joven promesa)",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 55.25,
+    "stock":35, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 5,"nombre":"AWP | Alcornoque",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado con un motivo de alcornoque.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 1.25,
+    "stock":150, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 6,"nombre":"AWP  | Atheris",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha pintado a mano el dibujo de una alucinante víbora turquesa sobre un fondo negro. Tan mortal como preciosa.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 14.52,
+    "stock":60, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 7,"nombre":"AWP | Exoesqueleto",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». El metal de este AWP se ha prensado meticulosamente con un patrón de calaveras entrelazadas. Inclinación total.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 8.99,
+    "stock":200, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 8,"nombre":"AWP | Mortis",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha personalizado usando la carta del tarot de la Muerte como inspiración. Cada final es un nuevo comienzo.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 7.45,
+    "stock":500, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 9,"nombre":"AWP | Gatetes y perretes",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se ha aplicado un patrón de felinos, canes y una criatura con una bufanda roja. Las recompensas por víctimas se pagan en postes rascadores y pelotas de tenis.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 5.99,
+    "stock":150, 
+    "categoria":"Case AWP"
+    
+  }
+  {
+    "index": 10,"nombre":"AWP | POP AWP",
+    "description":"Alto riesgo y alta recompensa, el infame AWP es reconocible por su característico sonido y su política de «un tiro, una muerte». Se le ha aplicado un patrón blanco, rojo y azul inspirado en tecnología retro. Las guerras se ganan con información.",
+    "image": "public/image/ak47/Ak-asiimov-800x385.png",
+    "precio": 2.85,
+    "stock":150, 
+    "categoria":"Case AWP"
+    
+  }]
