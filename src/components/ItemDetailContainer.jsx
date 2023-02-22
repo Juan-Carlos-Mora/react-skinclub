@@ -1,6 +1,7 @@
 import { useState, useEffect} from "react";
 import { useParams } from "react-router-dom";
-import Itemdetailun from "./Itemdetailun"
+import ItemDetail from "./ItemDetail";
+
 import arrayproductos from "./json/productos.json"
 
 
@@ -29,7 +30,7 @@ const ItemDetailcontainer= ()=>{
     return(
 
        <div>
-        <Itemdetailun item={item}/>
+        <ItemDetail item={item}/>
        </div>
 
     )
