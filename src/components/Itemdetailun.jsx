@@ -3,9 +3,9 @@ import ItemDetail from "./ItemDetail";
 
 const Itemdetailun =({items})=> {
     return (
-        <div className="row">
+        <div className="d-flex justify-content-center">
             {items.map(item => (
-                <div className="col-md-3">
+                <div className="col">
                     <ItemDetail item={item} />
                 </div>
             ))}

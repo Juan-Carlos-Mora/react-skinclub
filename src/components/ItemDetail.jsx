@@ -2,20 +2,20 @@ import ItemCount from "./ItemCount"
 
 const ItemDetail =({item})=>{
     return(
-        <div>
-            <div className="card text-center width-card mb-4">
-                <div className="width-card-interno">
-                    <img src={item.imagen} className="card-img-top imagen" alt={item.nombre}/>
-                    <div className="card-body">
-                        <h5 className="card-title">{item.nombre}</h5>
-                        <p>{item.descripcion}</p>
-                        <p><b>${item.precio}</b></p>
+        <div className="d-flex justify-content-center">
+            <div className="">
+                <div class="width-card-detail">
+                    <img src={item.imagen} class="imagendetail" alt={item.nombre}/>
+                    <div class="text-center">
+                        <h5 class="">{item.nombre}</h5>
+                        <p class="">{item.description}</p>
+                        <ItemCount stock={item.stock}/>                    
                     </div>
-                    <ItemCount stock={item.stock}/>
-                </div>
+                </div>  
             </div>
         </div>
-    )
+         
+        )
 };
 
 export default ItemDetail;

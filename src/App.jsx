@@ -14,8 +14,11 @@ function App() {
       <Navegador />
       <Routes>
         <Route exact path={"/"} element={<Itemlistcontainer/>}/>
-        <Route exact path={"/categoria/:id"} element={<Itemlistcontainer/>}/>
-        <Route exact path={"/item/:id"} element={<ItemDetailcontainer/>}/>
+        <Route exact path={"/Categoria/:id"} element={<Itemlistcontainer/>}/>
+        <Route exact path={"/:id"} element={<ItemDetailcontainer/>}/>
+        <Route exact path={"/Categoria/Fusil/:id"} element={<ItemDetailcontainer/>}/>
+        <Route exact path={"/Categoria/Sniper/:id"} element={<ItemDetailcontainer/>}/>
+        <Route exact path={"/Categoria/Knife/:id"} element={<ItemDetailcontainer/>}/>
         <Route exact path={"*"} element={<Error404/>}/>
       </Routes>
     </div>

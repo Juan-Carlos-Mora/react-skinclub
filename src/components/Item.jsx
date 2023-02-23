@@ -1,14 +1,10 @@
 import { Link } from "react-router-dom";
-
-
-
-
 const Item  =({item})=>{
    
     return(
         
         <div>
-            <Link className="colores2" to={item.index}>
+            <Link className="colores2" to={item.nombre}>
             <div className="card text-center width-card mb-4">
                 <div className="width-card-interno">
                     <img src={item.imagen} className="card-img-top imagen" alt={item.nombre}></img>

@@ -76,7 +76,34 @@ body {
 .Botonagregar{
   background-color: #551a8d;
   margin: 0;
+  color: aliceblue
+
+}
+.Botonagregar:hover{
+  background-color: #20033b;
+  margin: 0;
+  color: aliceblue;
+  
 }
 .Logodescripcion{
   margin-left: 20px;
 }
+.width-card-detail{
+  width: 30rem;
+  height: 35rem;
+  background-color:#4e1287f5;
+  margin: 0;
+  padding: 0;
+  border-style: outset;
+  border-radius: 5%;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: center;
+
+}
+.imagendetail{
+  width: 20rem;
+  height: 18rem;
+  margin: 0;
+  padding: 0;
+  background-color:none;}
