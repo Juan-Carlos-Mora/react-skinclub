@@ -1,12 +1,13 @@
+import Item from "./Item";
 import ItemDetail from "./ItemDetail";
 
 
 const Itemdetailun =({items})=> {
     return (
         <div className="row">
-            {items.map(item => (
+            {Items.map(Item => (
                 <div className="col-md-3">
-                    <ItemDetail item={item} />
+                    <ItemDetail item={Item} />
                 </div>
             ))}
         </div>
