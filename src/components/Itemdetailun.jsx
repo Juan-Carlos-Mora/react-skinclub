@@ -1,3 +1,4 @@
+import Item from "./Item";
 import ItemDetail from "./ItemDetail";
 
 
