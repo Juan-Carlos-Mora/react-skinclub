@@ -11,11 +11,11 @@ const Navegador =() =>{
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul className="navbar-nav me-auto">
                     <li className="nav-item me-3">
-                      <NavLink className="nav-link colores2" activeClassName={"active"} to={"/Categoria/Fusil"}>Fusil</NavLink></li>
+                      <NavLink classname="nav-link colores2 "  to={"/Categoria/Fusil"}>Fusil</NavLink></li>
                       <li className="nav-item me-3">
-                      <NavLink className="nav-link colores2"  activeClassName={"active"} to={"/Categoria/Sniper"}>Sniper</NavLink></li>
+                      <NavLink className="nav-link colores2"   to={"/Categoria/Sniper"}>Sniper</NavLink></li>
                       <li className="nav-item me-3">
-                      <NavLink className="nav-link colores2" activeClassName={"active"} to={"/Categoria/Knife"}>Knife</NavLink></li>
+                      <NavLink className="nav-link colores2"  to={"/Categoria/Knife"}>Knife</NavLink></li>
                   </ul>
                   <CartWidget/>
                 </div>
