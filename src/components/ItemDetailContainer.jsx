@@ -5,19 +5,19 @@ import ItemDetail from "./ItemDetail";
 
 
 
-const ItemDetailcontainer= ()=>{
+const ItemDetailcontainer = () => {
    
-   const [item, setItem]= useState({})
+   const [item, setItem]= useState({}); 
    const {id} = useParams();
    
    
    
-    useEffect(()=>{
+    useEffect(() => {
         const db = getFirestore();
-        const document = doc(db, "items", id);
-        getDoc(document).then(element => {
+        const documentos = doc(db, "items", id);
+        getDoc(documentos).then(element => {
             console.log(element);
-            setItem({id:element.id, ...element.data()});
+            setItem({id:element.id,...element.data()});
         });
         
     },  [id]);
