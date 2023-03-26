@@ -5,6 +5,7 @@ import Error404 from "./components/Error404";
 import ItemDetailcontainer from "./components/ItemDetailContainer";
 import CartContextProvider from "./components/Context/CartContext";
 import Cart from "./components/Context/Cart";
+import Piepagina from "./components/Piepagina";
 
 
 
@@ -24,6 +25,7 @@ function App() {
               <Route exact path={"/Cart"} element={<Cart/>}/>
               <Route exact path={"*"} element={<Error404/>}/>
             </Routes>
+            <Piepagina/>
           </div>
         </BrowserRouter>
     </CartContextProvider>
