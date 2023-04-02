@@ -118,7 +118,7 @@ body {
   background-color:none;}
 
   .tamanoInput{
-    width: 25rem;
+    width: 15rem;
   }
 
   .tamanoForm{
@@ -127,6 +127,7 @@ body {
   .link{
     text-decoration: none;
     color: aliceblue;
+    width: 8rem;
   }
   .pie{
   color: azure;

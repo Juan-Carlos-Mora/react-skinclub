@@ -11,6 +11,7 @@ const [ cart, setCart] = useState([]);
 
 
 const addItem = (item, quantity) => {
+
 if (isInCart(item.index)){
     let pos = cart.findIndex(x => x.index === item.index);
     cart[pos].quantity +=quantity;

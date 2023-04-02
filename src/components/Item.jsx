@@ -4,8 +4,8 @@ const Item  =({item})=>{
     return(
         
         <div>
-            <Link className={"colores2"} to={item.id}>
-            <div className="card text-center width-card mb-4">
+            <Link className="colores2" to={item.id}>
+            <div className="card text-center width-card mb-4 colores2">
                 <div className="width-card-interno">
                     <img src={item.imagen} className="card-img-top imagen" alt={item.nombre}></img>
                         <div className="card-body">
