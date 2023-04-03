@@ -2,12 +2,14 @@ import { doc, getDoc, getFirestore } from "firebase/firestore";
 import { useState, useEffect} from "react";
 import { useParams } from "react-router-dom";
 import ItemDetail from "./ItemDetail";
+import Loading from "./loanding";
 
 
 
 const ItemDetailcontainer = () => {
    
    const [item, setItem]= useState({}); 
+   const [loading, setLoading] = useState(true);
    const {id} = useParams();
    
    
@@ -18,6 +20,8 @@ const ItemDetailcontainer = () => {
         getDoc(documentos).then(element => {
             console.log(element);
             setItem({id:element.id,...element.data()});
+            setLoading(false);
+
         });
         
     },  [id]);
@@ -27,7 +31,8 @@ const ItemDetailcontainer = () => {
     return(
 
        <div>
-        <ItemDetail item={item}/>
+        {loading ? <Loading/> : <ItemDetail item={item}/>}
+        
        </div>
 
     )
